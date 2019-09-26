@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maeraequo.gmrxmedia.com/sitemap.xml
